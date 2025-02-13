@@ -1,10 +1,8 @@
-/* Start coding here */
-
 @font-face {
-    font-family: 'iannnnnCPU';
-    src: url(./fonts/2005_iannnnnCPU.ttf);
+    font-family: "iannnnnCPU";
+    src: url("./fonts/2005_iannnnnCPU.ttf")
 }
-
+  
 body {
-    font-family: iannnnnCPU, sans-serif;
+    font-family: "iannnnnCPU";
 }
